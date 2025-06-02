@@ -58,7 +58,7 @@ This project aims to predict **heart disease** using supervised machine learning
 ## 🚀 How to Run
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/HeartDiseasePrediction-Kelompok8.git
+git clone https://github.com/nadhif-royal/HeartDiseasePrediction-Kelompok8.git
 cd HeartDiseasePrediction-Kelompok8
 ````
 
