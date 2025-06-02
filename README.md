@@ -99,7 +99,9 @@ We used various classification metrics:
 ## 👨‍🏫 Contributors
 
 **Fikri Adyatma** – 235150201111015
+
 **Nadhif Rif’at Rasendriya** – 235150201111074
+
 **Reyno Benedict** – 235150207111048
 
 ---
